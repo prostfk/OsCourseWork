@@ -1,0 +1,6 @@
+C:\Users\prost\Desktop\projects\OSCOURSEWORK\CSharpModule\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Users\prost\Desktop\projects\OSCOURSEWORK\CSharpModule\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Users\prost\Desktop\projects\OSCOURSEWORK\CSharpModule\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.csprojAssemblyReference.cache
+C:\Users\prost\Desktop\projects\OSCOURSEWORK\CSharpModule\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\prost\Desktop\projects\OSCOURSEWORK\CSharpModule\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+C:\Users\prost\Desktop\projects\OSCOURSEWORK\CSharpModule\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
