@@ -1,10 +1,14 @@
 using System.IO;
 using System.Net;
+using System.Runtime.InteropServices;
 using System.Text;
 
 namespace ConsoleApplication1
 {
-    public class ApiUtil
+    [Guid("8C034F6A-1D3F-4DB8-BC99-B73873D8C297")]
+    [ClassInterface(ClassInterfaceType.None)]
+    [ComVisible(true)]
+    public class ApiUtil : IJsonRequest
     {
         public string GetJsonFromUrl(string url)
         {
@@ -21,4 +25,11 @@ namespace ConsoleApplication1
             return output.ToString();
         }
     }
+    [Guid("364C5E66-4412-48E3-8BD8-7B2BF09E8922")]
+    [ComVisible(true)]
+    interface IJsonRequest
+    {
+        string GetJsonFromUrl(string url);
+    }
+
 }
